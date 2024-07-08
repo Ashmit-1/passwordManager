@@ -20,7 +20,7 @@ Are you fed up of the ever-irritating message "Your password is not strong !" or
 ### Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://https://github.com/Ashmit-1/passwordManager.git
 ```
 
 ### Go to the project directory
