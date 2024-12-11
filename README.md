@@ -1,5 +1,5 @@
 
-# Password Manager 
+# Password Manager
 ### A simple commandline tool for managing all your passwords
 
 Are you fed up of the ever-irritating message "Your password is not strong !" or you forget your passwords quite often and then you have to go through all those "forget password" hastle ? Our commandline password manager is just the right tool for you! Go and check it out.
@@ -7,15 +7,15 @@ Are you fed up of the ever-irritating message "Your password is not strong !" or
 
 
 
-## Our password manager can - 
+## Our password manager can -
 
-- Create strong passwords limitlessly for you 
+- Create strong passwords limitlessly for you
 - Save newly created passwords
-- Save your old passwords 
+- Save your old passwords
 - Save passwords in an encrypted format
 
 
-## Run our app in your pc: 
+## Run our app in your pc:
 
 ### Clone the project
 
@@ -39,7 +39,7 @@ Enter the name of the project directory in place of {project_directory}
 ### Start the app
 
 ```bash
-  python passwordGenerate.py
+  python/python3 passwordGenerate.py
 ```
 
 
@@ -50,18 +50,18 @@ Enter the name of the project directory in place of {project_directory}
  <img width="416" alt="Generate_Password" src="https://github.com/user-attachments/assets/5d8e75a1-3cc0-4b34-ba11-4e3b02a630cb">
 
  Your password is at the bottom stating "Your password is: " The password contains :-
- - capital letters, 
- - small letters, 
- - numbers, 
- - special characters and 
+ - capital letters,
+ - small letters,
+ - numbers,
+ - special characters and
  - has a sufficiently long length of 15 characters.
- 
+
 - ### Save an existing password :
 
 
 <img width="440" alt="Save_Existing" src="https://github.com/user-attachments/assets/caa1d55e-5a3a-449d-81c0-e887f53fa579">
 
-The password manager lets you save your old passwords also alongside new passwords. 
+The password manager lets you save your old passwords also alongside new passwords.
 
 - ### Want to delete a password ? Don't worry
 
@@ -90,7 +90,7 @@ Your passwords are saved in an encrypted format so even if anyone gets access to
 
 <img width="541" alt="Encrypted_Passwords" src="https://github.com/user-attachments/assets/46b19b58-68ce-40c4-8ded-3678c3e0d5a6">
 
-All the passwords are stored in an encrypted format. 
+All the passwords are stored in an encrypted format.
 
 
 
@@ -100,6 +100,3 @@ All the passwords are stored in an encrypted format.
 
 ## So what are you waiting for ?
  Its time to look cool infront of your friends. Use this command line password manager infront of your friends and leave them in a state of shock !
-
- 
-
